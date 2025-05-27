@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TVB1” tvg-name="TVB1” group-title="Hong Kong",TVB1
-https://edge.404406.xyz/live/tvb_jade.m3u8?token=1c_6VOd3zUQ320_zsr4OSA&expires=1748189734
-#EXTINF:-1 tvg-id="TVB2” tvg-name="TVB2” group-title="Hong Kong",TVB2
-https://ushls.ballbar.net/jade_twn/playlist-15.m3u8a?t=1748171619&token=c4f20c7940f30764ae39d49bfee25aa2
+#EXTINF:-1 tvg-id="TVB1” tvg-name="TVB1” group-title="Hong Kong",TVB
+https://gitee.com/wen2195/test/raw/master/test.m3u
