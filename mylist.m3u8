@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TVB1” tvg-name="TVB1” group-title="Hong Kong",TVB
+
+#EXTINF:-1 tvg-name=“TVB翡翠台” group-title=“Hong Kong”,TVB翡翠台
 https://gitee.com/wen2195/test/raw/master/test.m3u
+
+#EXTINF:-1 tvg-name="ViuTV" group-title=“Hong Kong”,ViuTV
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
