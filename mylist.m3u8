@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name=“TVB翡翠台” group-title=“Hong Kong”,TVB翡翠台
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
+https://edge.404406.xyz/live/tvb_jade.m3u8?token=d790a3ad433d58934aa06752e97a1c9c1323bdbbe9b0efa4ecbbfabe2751f7ab&expires=1783578238&vid=tvb_jade
 
 #EXTINF:-1 tvg-name="ViuTV" group-title=“Hong Kong”,ViuTV
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
