@@ -2,8 +2,10 @@
 
 #EXTVLCOPT:http-referrer=https://live.yes2049.com/channels/tvb-jade/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-name="TVB翡翠台" group-title="Hong Kong",TVB翡翠台
-https://edge.404406.xyz/live/tvb_jade.m3u8?token=d790a3ad433d58934aa06752e97a1c9c1323bdbbe9b0efa4ecbbfabe2751f7ab&expires=1783578238&vid=tvb_jade
+#EXTINF:-1 tvg-id="tvb_jade" group-title="香港",TVB 翡翠台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+https://edge.404406.xyz/live/tvb_jade.m3u8?expires=1787221673&token=3d1379af2f403fc5cdbe32aa5b6da4e77acd9bcfadf1bcc32c57082677c86c89&vid=tvb_jade
+Filter files
 
 #EXTINF:-1 tvg-name="ViuTV" group-title="Hong Kong",ViuTV
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
