@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="tvb_jade" group-title="香港",TVB 翡翠台
 #EXTVLCOPT:http-referrer=https://live.yes2049.com/channels/tvb-jade/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
-https://edge.404406.xyz/live/tvb_jade.m3u8?expires=1792844142&mode=edge_lookup&sid=12ee2f2b81c00098b6982769&token=a6a26f2c9218bf78af1b09be212ce574cb1902b19ae6e786b12065338b792575&v=2
+https://edge.404406.xyz/live/tvb_jade.m3u8?expires=1792859440&mode=edge_lookup&sid=50d59c1c086d2882b9b727f5&token=c37ac374df3c09d438cec742a7b759fcb34983d5121ec5de41fec1c533b6bb0b&v=2
 
 #EXTINF:-1 tvg-id="tvb_pearl" group-title="香港",TVB 明珠台
 #EXTVLCOPT:http-referrer=https://live.yes2049.com/channels/tvb-pearl/
