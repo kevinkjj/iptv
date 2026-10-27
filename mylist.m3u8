@@ -3,12 +3,12 @@
 #EXTINF:-1 tvg-id="tvb_jade" group-title="香港",TVB 翡翠台
 #EXTVLCOPT:http-referrer=https://live.yes2049.com/channels/tvb-jade/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
-https://edge.404406.xyz/live/tvb_jade.m3u8?expires=1793096261&mode=edge_lookup&sid=f6f4ad64083bb326ba9f9ef7&token=ae3750e0c84d496c1fe8775ec5a18c4d8aa7db4127e362ab2768a3592756359c&v=2
+https://edge.404406.xyz/live/tvb_jade.m3u8?expires=1793114315&mode=edge_lookup&sid=ebf86ebd3df35329352bc607&token=87e12b3820568ac5bbe5afe2b5df83726442cb1ba3fa2531b3c2be528c3d14eb&v=2
 
 #EXTINF:-1 tvg-id="tvb_pearl" group-title="香港",TVB 明珠台
 #EXTVLCOPT:http-referrer=https://live.yes2049.com/channels/tvb-pearl/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
-https://edge.404406.xyz/live/tvb_pearl.m3u8?expires=1793096267&mode=edge_lookup&sid=f65198a6970fe63f3f1199c8&token=15320e0bb5cc3440a70ba72dd9ff7f14f8e40f7b8112f82dea115ec1ed25d117&v=2
+https://edge.404406.xyz/live/tvb_pearl.m3u8?expires=1793114321&mode=edge_lookup&sid=90f5d89a4b75c60dabbbbf7d&token=0c0e645acc8c803a18b48bd72dd35ce6945b3f4b919dbf823d28b454a557ac08&v=2
 
 #EXTINF:-1 tvg-name="ViuTV" group-title="Hong Kong",ViuTV
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
